@@ -1,0 +1,16 @@
+{
+  "name": "shopping-list-app",
+  "version": "1.0.0",
+  "description": "🛒 한국어 장보기 리스트 웹 애플리케이션",
+  "main": "test-shopping.js",
+  "scripts": {
+    "test": "node test-shopping.js"
+  },
+  "keywords": ["shopping-list", "한국어", "web-app"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "playwright": "^1.60.0"
+  }
+}
